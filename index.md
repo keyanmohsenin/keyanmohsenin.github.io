@@ -1,30 +1,26 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Home
+Hello! You've found the personal website of Keyan Mohsenin.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+I'm a narrative designer with seven years of professional experience. I started my career at [Pixelberry Studios], where I worked on High School Story, Hollywood U: Rising Stars, and [Choices: Stories You Play]. After Pixelberry, I worked on Jam City's [Harry Potter: Hogwarts Mystery].
 
-More specifically, the created site:
+I also worked as a game designer at Weaver Interactive on a series of unproduced prototypes (a rite of passage in the games industry). These days I'm an independent game developer working on a secret project inspired by early console FPS games.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+When I'm not making games, I enjoy playing games of all kind. In particular:
+- Old-school D&D
+- Computer roleplaying games
+- Immersive sims
+- First-person melee games
+- Boardgames that involve lying
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Outside of games, I enjoy hiking, climbing, drawing, and [watching movies].
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[Pixelberry Studios]: https://www.pixelberrystudios.com/
+[Choices: Stories You Play]: https://www.pixelberrystudios.com/games
+[Harry Potter: Hogwarts Mystery]: https://www.harrypotterhogwartsmystery.com/
+[watching movies]: https://letterboxd.com/keyanmohsenin/

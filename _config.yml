@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://keyanmohsenin.github.io
 
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/just-the-docs.png"
+
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/keyanmohsenin/keyanmohsenin.github.io
+#  Template Repository: https://github.com/keyanmohsenin/keyanmohsenin.github.io
